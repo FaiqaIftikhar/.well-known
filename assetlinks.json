@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.faiqa.cv.base",
+    "sha256_cert_fingerprints":
+    ["07:6D:96:8A:0D:95:1A:6C:00:0D:80:44:B3:64:8D:0A:40:E8:DB:32:DC:79:9A:41:5C:0D:F9:A1:3A:96:32:6E"]
+  }
+}]
